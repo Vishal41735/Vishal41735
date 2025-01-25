@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is  vishal41735 and I'm a  Java full Stack developer</h2> 
+<h2 align="left">Hi 👋! My name is vishal41735 and I'm a  javaFullstack  developer </h2>
 
 ###
 
@@ -47,19 +47,3 @@
 <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
 ###
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

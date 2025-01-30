@@ -35,16 +35,6 @@ Welcome to my GitHub profile! I'm passionate about building robust and scalable 
 
 ---
 
-## 🚀 My Projects
-
-Here are some of the projects I've worked on:
-
-1. **E-Commerce Platform** - A full-stack e-commerce application built with Spring Boot and React.
-2. **Task Management System** - A task management tool using Node.js, Express, and MongoDB.
-3. **Portfolio Website** - A personal portfolio website showcasing my skills and projects.
-
----
-
 ## 📊 GitHub Stats
 
 ![Vishal41735's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vishal41735&show_icons=true&theme=radical)
@@ -57,9 +47,8 @@ Here are some of the projects I've worked on:
 
 Feel free to reach out to me for collaborations or just to say hi! 😄
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishal41735/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/vishal41735)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vishal41735@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/vishal-sharma-4771aa254/])
+ [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](vishalsharma840038@gmail.com)
 
 ---
 
